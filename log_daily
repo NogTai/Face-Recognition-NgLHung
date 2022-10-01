@@ -1,0 +1,14 @@
+- 1h 14/09:
+	-Đã code core với face detection và face tracking
+	-> Load dât và cho vào embed
+
+- 23h33 - 14/09:
+	- Da merg code
+	- Loi phan luong: Đã FIX
+	- Trích xuất embedding của face
+- 1h40 - 15/09:
+	- Đã conver được ảnh trong database về dạng embedding
+	- Load database sang dạng embedding
+
+- 22h30 - 20/09:
+	- Doneeee
